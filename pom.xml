@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>de.ailis.pherialize</groupId>
-  <artifactId>pherialize</artifactId>
+  <artifactId>pherialize-unicode</artifactId>
   <packaging>jar</packaging>
   <name>Pherialize</name>
   <version>1.2.2-SNAPSHOT</version>
